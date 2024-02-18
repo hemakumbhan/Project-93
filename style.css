@@ -1,0 +1,14 @@
+body{
+    background-image:url(artistic-painting-background-made-with-using-acrylic-paint-palette-knife_231311-614.avif);
+    background-size: cover;
+    color: beige;
+}
+.login_div
+{
+	float: none; border-radius: 15px;
+}
+
+.logo
+{
+	width: 80px;margin-top: 30px;border-radius: 40px;
+}
